@@ -1,2 +1,2 @@
 # Layout
-This is a new repository for study html and css
+This is a new repository for studying html and css
