@@ -1,0 +1,89 @@
+#first {
+    text-decoration: underline;
+}
+
+#second {
+    text-decoration: line-through;
+}
+
+#third {
+    text-decoration: overline;
+}
+
+.redFigure {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
+
+.blueFigure {
+    width: 500px;
+    height: 200px;
+    border: 1px dotted blue;
+}
+
+.greenFigure {
+    width: 100px;
+    height: 100px;
+    border: 1px dashed green;
+}
+
+.multiColor {
+    width: 500px;
+    height: 200px;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    border-left: 1px solid black;
+    border-right: 1px solid green;
+    border-radius: 20px;
+}
+
+.strange {
+    width: 300px;
+    height: 300px;
+    border: 1px dashed green;
+    border-radius: 10px 30px;
+}
+
+.veryStrange {
+    width: 300px;
+    height: 300px;
+    border: 1px dotted green;
+    border-radius: 10px 30px 50px 70px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 50%;
+}
+
+#link1:link, #link1:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+#link1:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+#link2:link, #link2:visited {
+    color: red;
+}
+
+#link2:hover {
+    text-decoration: line-through;
+    color: blue;
+}
+
+#link3:link, #link3:visited {
+    text-decoration: none;
+    color: black;
+}
+
+#link3:hover {
+    text-decoration: overline;
+    color: red;
+}

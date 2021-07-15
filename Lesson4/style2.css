@@ -1,0 +1,38 @@
+h1 {
+    color:red;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    line-height: 30px;
+    width: 600px;
+}
+
+ol {
+    color: red;
+}
+
+ul {
+    color: #924763;
+    width: 600px;
+}
+
+b {
+    color:red;
+    font-size: 20px;
+}
+
+i {
+    color: blue;
+}
+
+#blackBold {
+    color: black;
+}
