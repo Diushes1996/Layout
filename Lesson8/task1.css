@@ -1,0 +1,35 @@
+.mounth {
+    text-align: center;
+}
+
+.separateLine {
+    border-bottom: 1px solid black;
+    padding-bottom: 3px;
+}
+
+a.workDay:link, a.workDay:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a.workDay:hover {
+    text-decoration: underline;
+}
+
+a.weekend:link, a.weekend:visited {
+    text-decoration: none;
+    color: gray;
+}
+
+a.weekend:hover {
+    text-decoration: underline;
+}
+
+a.celebrate:link, a.celebrate:visited {
+    text-decoration: none;
+    color: red;
+}
+
+a.celebrate:hover {
+    text-decoration: underline;
+}

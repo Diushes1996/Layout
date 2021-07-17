@@ -1,0 +1,20 @@
+body {
+    background: no-repeat black url("space.jpg");
+}
+
+.header {
+    color: white;
+    text-align: center;
+}
+
+.textContent {
+    font: 14px Arial;
+    color: white;
+    line-height: 20px;
+    text-align: justify;
+}
+
+.content {
+    width: 50%;
+    line-height: 30px;
+}
