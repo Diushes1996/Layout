@@ -1,0 +1,27 @@
+body {
+    display: block;
+}
+
+.container {
+    width: 30%;
+    border: 1px solid blue;
+}
+
+.item:link, .item:visited {
+    width: 100%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(111, 167, 231);
+    color: white;
+    text-decoration: none;
+}
+
+.item:hover {
+    background-color: white;
+    color: rgb(111, 167, 231);;
+}

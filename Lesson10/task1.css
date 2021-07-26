@@ -1,0 +1,22 @@
+body {
+    display: block;
+}
+
+.container {
+    width: 70%;
+    margin: 0px auto;
+    border: 1px solid blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+
+.item {
+width: 200px;
+height: 200px;
+border: 1px solid blue;
+margin-bottom: 30px;
+
+}
